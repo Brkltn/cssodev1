@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size:45px ;
+    color: blue;
+    font-style: normal;
+    /* text-transform: uppercase; */
+
+}
+h2{
+    font: 1,875em sans-serif;
+    color: red;
+    font-style: normal
+}
+p{
+    color: white;
+    font: 1em sans-serif;
+}
+header{
+    font-size: 30px;
+    background-color: black;
+}
+a{
+    color: red;
+    font: 1em serif;
+    font-style: oblique;
+}
+footer{
+    font-size: 30px;
+    background-color: black;
+}
